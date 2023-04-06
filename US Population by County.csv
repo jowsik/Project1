@@ -1,4 +1,4 @@
-COUNTY,STNAME,CTYNAME,Population 2016,Population 2017,Population 2018,Population 2019,Population 2020
+COUNTY,STNAME,County,Population 2016,Population 2017,Population 2018,Population 2019,Population 2020
 0,Alabama,Alabama,4866824,4877989,4891628,4907965,4921532
 1,Alabama,Autauga County,55302,55448,55533,55769,56145
 3,Alabama,Baldwin County,207787,212737,218071,223565,229287
@@ -190,7 +190,6 @@ COUNTY,STNAME,CTYNAME,Population 2016,Population 2017,Population 2018,Population
 145,Arkansas,White County,78941,78944,78390,78621,78729
 147,Arkansas,Woodruff County,6616,6580,6496,6431,6264
 149,Arkansas,Yell County,21520,21544,21506,21376,21181
-0,California,California,39149186,39337785,39437463,39437610,39368078
 1,California,Alameda County,1650765,1659824,1666596,1668412,1662323
 3,California,Alpine County,1053,1116,1081,1113,1119
 5,California,Amador County,37443,38549,39349,39693,40083
