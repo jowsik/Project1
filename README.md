@@ -14,7 +14,7 @@ Crime & Median Housing Price by counties (2016-2020)
 
 ### Accessing the Files in the Repo:
 - Crime by County - data displaying crime/crime types in each year in each county
-- Crime vs. Housing Scatterplts - scatterplot visualization of crime vs. median housing in each year
+- crime_housing_scatter - scatterplot visualization of crime vs. median housing in each year
 - Median Housing - data containing house prices for each year in each county
 - Clean Housing Data - shows median house prices in each county in each year 2016 - 2020
 - # of Crimes in California from 2016 - 2020 - shows grouped county data of crime numbers per year
@@ -48,4 +48,4 @@ https://public.opendatasoft.com/explore/dataset/us-county-boundaries/export/?dis
 
 ### Final Trends and Analysis:
 
-Based on the line graph for median housing, it appears that year over year, housing costs continue to increase from 2016 to 2020. This is consistent for all counties in California. 
+Based on the line graph for median housing, it appears that year over year, housing costs continue to increase from 2016 to 2020. This is consistent for all counties in California. At the same time, crime is trending slightly downward throughout the same 5 years.  Looking at the crime and median housing county-by-county, we see that there is no signficant correlation between the amount of crime and the median housing price from 2016 - 2020.  Even if we hone in on the top 5 and bottom 5 counties for crime and housing, the extremes have no significant correlation from the bar graphs.
